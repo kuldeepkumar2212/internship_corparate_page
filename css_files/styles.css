@@ -1,0 +1,171 @@
+/* Add this CSS to your styles.css file */
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-weight:normal;
+    font-size: 20px;
+}
+
+.navbar-nav {
+    margin-top: 10px;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+/* Hero Section */
+#hero {
+    background-image: url('../images/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 150px 0;
+    color: #fff;
+}
+
+#hero h1 {
+    color: black;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+#hero p {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.cta-button {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+#values-content{
+    padding-top: 20px;
+}
+/* Services Section */
+#services {
+    padding: 50px 0;
+    background-color: #fff;
+}
+
+.service-automation {
+    background-image: url('../images/automation.jpeg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: large;
+    font-weight: bold;
+}
+.service-digital {
+    background-image: url('../images/Digital-Transformation.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: large;
+    font-weight: bold;
+}
+.service-security {
+    background-image: url('../images/security.jpeg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: large;
+    font-weight: bold;
+}
+.service-cloud {
+    background-image: url('../images/cloud.jpeg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.service p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Contact Section */
+#contact {
+    padding: 50px 0;
+    background-color: #f7f7f7;
+}
+
+#contact h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
